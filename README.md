@@ -1,16 +1,7 @@
-# flutter_global_gaming_challenge_2024_sabirklm
+# Global Gamers Challenge
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+![Overview](Overview.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Global Gamers Challenge is an 8-week challenge, sponsored by Flutter and Global Citizen, to design, build, and publish sustainable games using Flutter. Join to learn how sustainable games can empower players to take small actions for the environment that when done collectively, lead to large impact, and experience the fun of building a Flutter game!
